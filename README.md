@@ -10,8 +10,8 @@ tilanne kehittymisen näkökulmasta on sirpaleinen ja yhteistä nimittäjää on
 ovat muun muassa:
 - Reitti- ja matka-aika palveluiden yhteensopimattomuus, erilaisten maksujärjestelmien kirjo.
 - Kuluttaja joutuu hakemaan reittiään ja aikatauluaan usean palvelun kautta
-- Pysäkki- ja reittitiedot eivät ole laadukkaasti kansallisessa tietokannassa (Digiroad)
-Pysäkki- ja reittitietopalvelut toimivat paikallisesti hyvin mutta niiden koonti valtakunnalliseen palveluun on
+- Pysäkki- ja reittitiedot eivät ole laadukkaasti kansallisessa tietokannassa (Digiroad). Pysäkki- ja
+reittitietopalvelut toimivat paikallisesti hyvin mutta niiden koonti valtakunnalliseen palveluun on
 hajanaista
 
 Liikennevirasto etsii erilaisia tapoja tarjota joustavan, helppokäyttöisen tavan käyttää joukkoliikennetietoa ja
