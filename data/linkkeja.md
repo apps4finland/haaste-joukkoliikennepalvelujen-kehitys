@@ -21,6 +21,6 @@ APIt
 Dataa
 =====
 
-[1] Matka.fi-sisältö (http://www.matka.fi/)
-[2] Tierekisterin pysäkkisisältö (www.liikennevirasto.fi/tierekisteri)
+[1] Matka.fi-sisältö (http://www.matka.fi/) <br>
+[2] Tierekisterin pysäkkisisältö (www.liikennevirasto.fi/tierekisteri) <br>
 [3] Digiroad-tietoaineisto (http://www.digiroad.fi/)
